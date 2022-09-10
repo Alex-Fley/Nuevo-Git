@@ -7,6 +7,9 @@ string producto = "";
 double precio = 0.0;
 int cantidad = 0;
 
+Console.BackgroundColor = ConsoleColor.Blue;
+Console.ForegroundColor = ConsoleColor.Red;
+
 
 Console.WriteLine("ingrese su producto");
 
@@ -20,4 +23,4 @@ Console.WriteLine("Ingrese la cantidad");
 cantidad = int.Parse(Console.ReadLine());
 
 Console.WriteLine("el producto {0} tiene una inversion de {1}" ,producto, (double)precio*cantidad);
-Console.ReadKey(); 
+Console.ReadKey();

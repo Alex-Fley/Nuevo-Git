@@ -1,0 +1,15 @@
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\bin\Debug\net6.0\nuevo de git.exe
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\bin\Debug\net6.0\nuevo de git.deps.json
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\bin\Debug\net6.0\nuevo de git.runtimeconfig.json
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\bin\Debug\net6.0\nuevo de git.dll
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\bin\Debug\net6.0\nuevo de git.pdb
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\nuevo de git.csproj.AssemblyReference.cache
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\nuevo de git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\nuevo de git.AssemblyInfoInputs.cache
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\nuevo de git.AssemblyInfo.cs
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\nuevo de git.csproj.CoreCompileInputs.cache
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\nuevo de git.dll
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\refint\nuevo de git.dll
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\nuevo de git.pdb
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\nuevo de git.genruntimeconfig.cache
+C:\Users\GMG\Desktop\nuevo de git\nuevo de git\obj\Debug\net6.0\ref\nuevo de git.dll
